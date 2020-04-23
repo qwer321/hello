@@ -5,5 +5,5 @@
 #include <stdio.h>
 int main(void)
 {
-printf("heool\n");
+printf("hello\n");
 }
