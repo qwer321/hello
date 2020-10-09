@@ -6,6 +6,8 @@
 int main(void)
 {
 
+printf("hello99999999999\n,haha\n");
+
 printf("hello66666666666\n,haha\n");
 
 printf("hello\nqqqqqq");
