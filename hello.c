@@ -6,7 +6,7 @@
 int main(void)
 {
 
-printf("hello7777\n,haha\n");
+printf("hello6666\n,haha\n");
 
 printf("hello\nqqqqqq");
 printf("nwe hello \n");
